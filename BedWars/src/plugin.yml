@@ -1,5 +1,5 @@
 name: BedWars
-version: v0_00
+version: v0_02
 author: Schiimi_
 main: cloud.alb.home.Schiimi_.BedWars.BedWars
 commands:
